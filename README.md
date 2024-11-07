@@ -1,6 +1,6 @@
 Videos of photo_album_sharing_redux app:
 
-1.  Add a user with event handler and loading skeleton demo:
+1.  Add a user with loading skeleton demo:
 https://github.com/user-attachments/assets/66cf09b3-e719-4686-9463-968773d4c59d
 
 2. Delete user:

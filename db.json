@@ -1,22 +1,12 @@
 {
-  "users": [
-    {
-      "id": "58cd",
-      "name": "Caleb Lebsack"
-    }
-  ],
+  "users": [],
   "albums": [
+    {},
     {
-      "id": "01fc",
-      "userId": "58cd",
-      "title": "Elegant Fresh Hat"
+      "id": "adfc",
+      "userId": null,
+      "title": "Sleek Bronze Shoes"
     }
   ],
-  "photos": [
-    {
-      "id": "2eb3",
-      "albumId": "01fc",
-      "url": "https://loremflickr.com/150/150/abstract?lock=692"
-    }
-  ]
+  "photos": []
 }
